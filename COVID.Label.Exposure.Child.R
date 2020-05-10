@@ -6,7 +6,7 @@
 ##
 ## Authors: Dr. Anthony J. Gifuni & Rachel Weisenburger
 ##
-## Date Created: 2018-04-18
+## Date Created: 2020-05-01
 ##
 ## Copyright (c) SNAP Lab, 2020
 ## Email: gifuni@stanford.edu
@@ -337,7 +337,7 @@ CHILD <- rename(CHILD,
                 "Concentration_3months.TC"="covid_emotion_c_7", 
                 "Irritability_3months.TC"="covid_emotion_c_8",
                 "Loneliness_3months.TC"="covid_emotion_c_9", 
-                "Neg_thoughts_3monthss.TC"= "covid_emotion_c_10",
+                "Neg_thoughts_3months.TC"= "covid_emotion_c_10",
                 "Time_watching_TV_3months.TC" = "covid_emotion_c_11",
                 "Time_social_media_3months.TC"= "covid_emotion_c_12",
                 "Time_video_games_3months.TC" = "covid_emotion_c_13", 
