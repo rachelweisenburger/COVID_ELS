@@ -34,8 +34,8 @@ Install_And_Load(c("here","tidyverse"))
 ## ---------------------------------------------------------------------
 #Import data
 
-CHILD <- read.csv(here::here("Data","ELS_COVID_Child.csv"))
-PARENT <- read.csv(here::here("Data","ELS_COVID_PARENT.csv"))
+CHILD <- read.csv(here::here("Data","ELS_COVID_T1_Final_Child_Raw.csv"))
+PARENT <- read.csv(here::here("Data","ELS_COVID_T1_Parent_Curated_Final.csv"))
 ELS.T1 <- read.csv(here::here("Data","ELS_T1_COVID_Curated.csv"))
 ELS.T2 <- read.csv(here::here("Data","ELS_T2_COVID_Curated.csv"))
 ELS.T3 <- read.csv(here::here("Data","ELS_T3_COVID_Curated.csv"))
